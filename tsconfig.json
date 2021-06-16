@@ -6,8 +6,7 @@
       "DOM.Iterable",
       "ESNext"
     ],
-    "types": [
-    ],
+    "types": [],
     "allowJs": false,
     "skipLibCheck": false,
     "esModuleInterop": true,
@@ -21,11 +20,20 @@
     "jsx": "preserve",
     "baseUrl": "./",
     "paths": {
-      "~component/*":["components/*"],
-      "~styles/*":["styles/*"],
-      "~page/*":["pages/*"],
-      "~lib/*":["lib/*"],
-    }
+      "~component/*": [
+        "components/*"
+      ],
+      "~styles/*": [
+        "styles/*"
+      ],
+      "~page/*": [
+        "pages/*"
+      ],
+      "~lib/*": [
+        "lib/*"
+      ]
+    },
+    "strict": false
   },
   "include": [
     "next-env.d.ts",
