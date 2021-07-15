@@ -9,19 +9,19 @@ module.exports = {
       transparent: 'transparent',
       current: 'currentColor',
       blue: {
-        subtle: '#d1e1ef',
-        lightest: '#bdd4e6',
-        lighter: '#a6c5dd',
-        light: '#81acce',
-        DEFAULT: '#6f9abc',
-        dark: '#4f7898',
-        darker: '#355269',
-        darkest: '#283c4c'
+        beau1: '#d1e1ef',
+        beau2: '#bdd4e6',
+        paleCeru: '#a6c5dd',
+        iceberg: '#81acce',
+        ceruFrost: '#6f9abc',
+        steel: '#4f7898',
+        sapphire: '#355269',
+        charcoal: '#283c4c'
       },
       gray: {
-        darkest: '#2C2F33',
-        dark: '#23272A',
-        DEFAULT: '#9CA3AF',
+        jet: '#2C2F33',
+        charles: '#23272A',
+        manatee: '#9CA3AF',
       }
     },
     fontFamily: {
