@@ -23,6 +23,10 @@ module.exports = {
         dark: '#23272A',
         DEFAULT: '#9CA3AF',
       }
+    },
+    fontFamily: {
+      DEFAULT: ['Montserrat'],
+      body: ['Montserrat']
     }
   },
   variants: {
